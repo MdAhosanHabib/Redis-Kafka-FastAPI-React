@@ -1,3 +1,4 @@
+![1000082372](https://github.com/MdAhosanHabib/Redis-Kafka-FastAPI-React/assets/43145662/d0f1fd2b-4b4c-46ef-9900-b2fad0c58525)
 Here we assume that, MySQL, Kafka, Zookeeper, Kafdrop, Redis server has been configured. Let's move to next step:
 #####################################MySQL-DB########################
 
