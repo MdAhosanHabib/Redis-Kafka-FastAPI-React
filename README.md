@@ -1,5 +1,6 @@
 Here we assume that, MySQL, Kafka, Zookeeper, Kafdrop, Redis server has been configured. Let's move to next step:
 #####################################MySQL-DB########################
+
 USER: TodoList
 Pass: Todo_List123
 
@@ -11,6 +12,7 @@ CREATE TABLE TodoList.todo (
 );
 
 #####################################FastAPI########################
+
 --install pip
 py -m pip install --upgrade pip
 py -m pip --version
@@ -46,6 +48,7 @@ uvicorn main:app --reload
 pip freeze
 
 #####################################ReactJS########################
+
 --create react app
 install nodeJS
 npm install -g npm@9.6.5
